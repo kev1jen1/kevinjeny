@@ -1,0 +1,58 @@
+body {
+    background-color: #0E1116;}
+
+h1 {
+    color: white;
+    font-family:serif;
+    text-align: center;
+}
+p {
+    color: white;
+    font-family:serif;
+    text-align: center;
+}
+al {
+    color: white;
+    font-family:serif;
+    text-align: center;
+}
+ul {
+    color: white;
+    font-family:serif;
+    text-align: center;
+}
+#brand {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  
+}
+video {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+.footer-banner {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+.footer-banner a {
+    font: bold;
+    color: white;
+    margin: 0 15px;
+}
+#himg{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+#jeux {
+    list-style: none;
+     text-align: center;
+     font-size: 30px;
+}
